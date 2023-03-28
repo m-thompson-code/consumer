@@ -20,7 +20,8 @@
     "@angular/router": "^15.1.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
-    "zone.js": "~0.12.0"
+    "zone.js": "~0.12.0",
+    "ui-sdk-moo": "file://Users/markthompson/Documents/github/personal/angular-library-example/dist/mycomp/ui-sdk-moo"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^15.1.3",
